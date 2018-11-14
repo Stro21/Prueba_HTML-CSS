@@ -8,3 +8,7 @@ and open the template in the editor.
     Author     : Eduardo
 */
 
+.img-responsive{
+	width: 25;
+	height: 25;
+}
