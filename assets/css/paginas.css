@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 .img-responsive{
-	width: 25%;
+	max-width: 100%;
 	height: auto;
 }
 
