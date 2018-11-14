@@ -9,62 +9,10 @@ and open the template in the editor.
 */
 
 .img-responsive{
-	max-width: 100%;
+	max-width: 50%;
 	height: auto;
 }
 
-.navbar {
-
-}
-
-.navbar-default {
-
-}
-
-.navbar-fixed-top {
-
-}
-
-.container-fluid {
-
-}
-
-.navbar-header {
-
-}
-
-.navbar-toggle {
-
-}
-
-.sr-only {
-
-}
-
-.icon-bar {
-
-}
-
-.navbar-brand {
-
-}
-
-.collapse {
-
-}
-
-.navbar-collapse {
-
-}
-
-.nav {
-
-}
-
-.navbar-nav {
-
-}
-
-.active {
-
+.tam_nav_bar{
+  height: 100px;
 }
