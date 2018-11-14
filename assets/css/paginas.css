@@ -16,3 +16,15 @@ and open the template in the editor.
 .tam_nav_bar{
   height: 100px;
 }
+
+.margen_extra{
+  margin-top: 20px;
+}
+
+.a_la_izquierda{
+  text-align: left;
+}
+
+.small_size{
+  font-size: 14px;
+}
