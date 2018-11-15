@@ -8,7 +8,7 @@ and open the template in the editor.
     Author     : Eduardo
 */
 
-.img-responsive{
+.img-responsive1{
 	max-width: 50%;
 	height: auto;
 }
@@ -27,4 +27,8 @@ and open the template in the editor.
 
 .small_size{
   font-size: 14px;
+}
+
+.mas_margin{
+  margin-top: 100px;
 }
